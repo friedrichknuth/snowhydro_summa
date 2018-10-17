@@ -1,2 +1,1 @@
-# snowhydro_summa
-CUAHSI Snow Hydrology SUMMA Explorations
+Exploring the SUMMA model as part of the 2018 CUAHSI Snow Hydrology course.
